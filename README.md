@@ -23,6 +23,7 @@ Program ini merupakan program aplikasi penjualan rumah yang dipergunakan untuk m
 <img width="550" alt="5" src="https://user-images.githubusercontent.com/87264670/128621981-056dcb32-caf2-4842-aac9-4b5b6d93523a.png">
 
 5). Lakukan pengisian data lalu ajukan DP yang akan dibayar dan lama cicilan lalu klik proses maka akan muncul PPN dan jumlah cicilan
+
 <img width="549" alt="6" src="https://user-images.githubusercontent.com/87264670/128621984-664b7160-dbfc-462d-af2d-c6e9cbe8206a.png">
 
 6). Jika pemesan menyetujui, maka kita ceklist setuju dan akan muncul pesan "pemesan menyetujui"
