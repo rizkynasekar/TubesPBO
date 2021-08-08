@@ -32,6 +32,7 @@ Program ini merupakan program aplikasi penjualan rumah yang dipergunakan untuk m
 <img width="550" alt="8" src="https://user-images.githubusercontent.com/87264670/128621992-eab96199-50e7-4905-9d5b-a5ad06fc171a.png">
 
 8). Jika kita memilih tampilkan data, maka tampilan yang akan muncul adalah data pemesan, pencarian data berdasarkan nama atau area, dan hapus pencarian secara otomatis
+
 <img width="549" alt="9" src="https://user-images.githubusercontent.com/87264670/128621996-0280e410-55fd-478e-bf42-cc22c9bb34b1.png">
 
 9). Kali ini kita mencari data berdasarkan nama pemesan, maka akan muncul nama yang kita cari
