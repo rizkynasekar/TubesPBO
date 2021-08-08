@@ -10,3 +10,4 @@ Nama Anggota Kelompok :
 
 Program ini merupakan program aplikasi penjualan rumah yang dipergunakan untuk membantu admin dalam melakukan proses transaksi penjualan rumah
 
+Setelah kita running program maka akan muncul tampilan login, logout, dan exit
